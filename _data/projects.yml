@@ -12,6 +12,20 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
+- name: Backend: Ecommerce for the sale of computer equipment - mamOlbin
+  descr: "Development of Ecommerce Backend component for the sale of computer equipment. The job will have several profiles: administrator, owner and client.
+  The web application will provide a rating and comments section for each product, so users can make a purchase decision based on the opinions of other buyers.
+  On the other hand, the owners will be provided with an update on the number of available stocks of the products that they offer based on the amount that the customers place in an order, thus they will be able to make future decisions about the acquisition of more products.
+  If there is an inappropriate product or comment published in the system, the administrator will obtain the information of any of the users to contact them to modify it, and in the event that it persists, then it is removed from the Ecommerce system with all its existing interactions."
+          # 'Gracias por preferirnos! Su orden de compra es ${docRef.id}'
+  demo: https://github.com/MarlonAdrian/Ecommerce-BackEnd/tree/Sprint6
+  tags:
+    - tag: SCRUM
+    - tag: Postman
+    - tag: Laravel
+    - tag: phpMyAdmin
+    - tag: Railway
+    - tag: API
 
 - name: Control-and-Documentation-System
   descr: Web application responsible for the management and control of users and contracts for the Public Company of the National Polytechnic School EPN-TECH EP(2022)

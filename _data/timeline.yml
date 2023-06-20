@@ -19,7 +19,7 @@
 
 - title: ESFOT-EPN
   title-url: https://esfot.epn.edu.ec/
-  date: Sep 2020 - Present
+  date: Sep 2020 - Apr 2023
   subtitle: Student-Software Development
   tags:
     - tag: 'Databases:SQL, MYSQL'
@@ -30,10 +30,12 @@
 
 - title: CEC-EPN
   title-url: https://www.cec-epn.edu.ec/
-  date: Jun 2020 - Present
+  date: Jun 2020 - Jan 2023
   subtitle: English Language Superior 
   tags:
-    - tag: C1
+    - tag: Superior Speaking
+    - tag: Academic Four
+
   timeline-side: left
 
 - title: Public Company EPN-TECH EP
@@ -47,6 +49,16 @@
   - tag: DropboxDeveloper
   timeline-side: right
 
+
+- title: KM Solutions KYOCERA
+  title-url: https://www.kmsolutions.ec/
+  date: May 2023 - Present
+  subtitle: Technical support and technology department
+  tags:
+  - tag: CHUWI Devices
+  - tag: SO Windows
+  - tag: Active Directory
+  timeline-side: left
 # - title: Super University
 #   title-url: https://example.com/
 #   date: 2017 - 2019
