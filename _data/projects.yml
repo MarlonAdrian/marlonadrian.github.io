@@ -12,7 +12,7 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
-- name: Backend: Ecommerce for the sale of computer equipment
+- name: "Backend: Ecommerce for the sale of computer equipment - mamOlbin"
   descr: "Development of Ecommerce Backend component for the sale of computer equipment. The job will have several profiles: administrator, owner and client.
   The web application will provide a rating and comments section for each product, so users can make a purchase decision based on the opinions of other buyers.
   On the other hand, the owners will be provided with an update on the number of available stocks of the products that they offer based on the amount that the customers place in an order, thus they will be able to make future decisions about the acquisition of more products.
