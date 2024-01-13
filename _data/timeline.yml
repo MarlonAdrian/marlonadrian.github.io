@@ -50,6 +50,17 @@
   timeline-side: right
 
 
+- title: KYOCERA (KM Solutions)
+  title-url: https://www.kmsolutions.ec/
+  date: Jul 2023 - May 2023
+  subtitle: Systems Technician
+  tags:
+  - tag: to FF Speciality Hospital. AA N°1 of Ecuador
+  - tag: Installation, configuration and maintenance of software
+  - tag: performance monitoring and operational status of Kyocera Equipment
+  timeline-side: left
+
+
 - title: KM Solutions KYOCERA
   title-url: https://www.kmsolutions.ec/
   date: May 2023 - Present
@@ -58,7 +69,7 @@
   - tag: CHUWI Devices
   - tag: SO Windows
   - tag: Active Directory
-  timeline-side: left
+  timeline-side: right
 # - title: Super University
 #   title-url: https://example.com/
 #   date: 2017 - 2019
